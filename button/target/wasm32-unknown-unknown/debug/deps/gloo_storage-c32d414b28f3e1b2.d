@@ -1,0 +1,10 @@
+/home/grady/LearningRust/Button/button/target/wasm32-unknown-unknown/debug/deps/gloo_storage-c32d414b28f3e1b2.rmeta: /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/home/grady/LearningRust/Button/button/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-c32d414b28f3e1b2.rlib: /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/home/grady/LearningRust/Button/button/target/wasm32-unknown-unknown/debug/deps/gloo_storage-c32d414b28f3e1b2.d: /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs:
+/home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs:
+/home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs:
+/home/grady/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs:
